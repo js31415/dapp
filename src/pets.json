@@ -1,0 +1,132 @@
+[
+  {
+    "id": 0,
+    "name": "Beerus",
+    "picture": "images/beerus.png",
+    "form": 3,
+    "type": "God",
+    "location": "Beerus planet"
+  },
+  {
+    "id": 1,
+    "name": "Goku",
+    "picture": "images/goku.png",
+    "form": 0,
+    "type": "Saiyan",
+    "location": "Earth"
+  },
+  {
+    "id": 2,
+    "name": "Goten",
+    "picture": "images/goten.png",
+    "form": 0,
+    "type": "Saiyan",
+    "location": "Earth"
+  },
+  {
+    "id": 3,
+    "name": "Vegita",
+    "picture": "images/vegita.png",
+    "form": 0,
+    "type": "Saiyan",
+    "location": "Saiyan planet"
+  },
+  {
+    "id": 4,
+    "name": "Super Goku",
+    "picture": "images/super-goku.png",
+    "form": 4,
+    "type": "Super Saiyan",
+    "location": "Earth"
+  },
+  {
+    "id": 5,
+    "name": "Beerus",
+    "picture": "images/beerus.png",
+    "form": 3,
+    "type": "God",
+    "location": "Beerus planet"
+  },
+  {
+    "id": 6,
+    "name": "Goku",
+    "picture": "images/goku.png",
+    "form": 0,
+    "type": "Saiyan",
+    "location": "Earth"
+  },
+  {
+    "id": 7,
+    "name": "Vegita",
+    "picture": "images/vegita.png",
+    "form": 0,
+    "type": "Saiyan",
+    "location": "Saiyan planet"
+  },
+  {
+    "id": 8,
+    "name": "Goten",
+    "picture": "images/goten.png",
+    "form": 0,
+    "type": "Saiyan",
+    "location": "Earth"
+  },
+  {
+    "id": 9,
+    "name": "Beerus",
+    "picture": "images/beerus.png",
+    "form": 3,
+    "type": "God",
+    "location": "Beerus planet"
+  },
+  {
+    "id": 10,
+    "name": "Super Goku",
+    "picture": "images/super-goku.png",
+    "form": 4,
+    "type": "Super Saiyan",
+    "location": "Earth"
+  },
+  {
+    "id": 11,
+    "name": "Goten",
+    "picture": "images/goten.png",
+    "form": 0,
+    "type": "Saiyan",
+    "location": "Earth"
+  },
+  {
+    "id": 12,
+    "name": "Vegita",
+    "picture": "images/vegita.png",
+    "form": 0,
+    "type": "Saiyan",
+    "location": "Saiyan planet"
+  },
+  {
+    "id": 13,
+    "name": "Super Goku",
+    "picture": "images/super-goku.png",
+    "form": 4,
+    "type": "Super Saiyan",
+    "location": "Earth"
+  },
+
+  {
+    "id": 14,
+    "name": "Super Goku",
+    "picture": "images/super-goku.png",
+    "form": 4,
+    "type": "Super Saiyan",
+    "location": "Earth"
+  },
+  {
+    "id": 15,
+    "name": "Beerus",
+    "picture": "images/beerus.png",
+    "form": 3,
+    "type": "God",
+    "location": "Beerus planet"
+  }
+  
+]
